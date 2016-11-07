@@ -1,0 +1,1 @@
+python  lsi.py -z 200 -k 10 --dir Documents --doc_in doc_in.txt --doc_out ayush_doc.txt --term_in term_in.txt --term_out ayush_term.txt --query_in query_in.txt --query_out ayush_query.txt
